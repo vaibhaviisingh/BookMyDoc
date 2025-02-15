@@ -5,7 +5,7 @@
 - **Admin Panel:** [Arogya Admin](https://innov8tech-admin-fpsc.onrender.com/)
 
 ## 📌 About Arogya
-Arogya is a healthcare platform designed to make medical services easily accessible to users. It enables users to browse doctors, book appointments, and manage their health efficiently. The admin panel allows administrators to manage doctors, appointments, and user data.
+Arogya is a comprehensive healthcare platform designed to provide seamless medical services to users. It enables patients to browse and connect with expert doctors, book appointments, and manage their health effortlessly. Additionally, Arogya incorporates AI-powered tools for personalized workout plans, symptom-based diagnosis, and medicine recommendations. The admin panel allows administrators to manage doctors, appointments, prescriptions, and more with advanced authentication security.
 
 ## 🚀 Features
 ### User Platform
@@ -16,6 +16,7 @@ Arogya is a healthcare platform designed to make medical services easily accessi
 ✅ Daily tablet scheduling and multiple appointment booking  
 ✅ AI-powered model **JIVA** provides personalized workout plans, routes, and more based on user information  
 ✅ AI model for symptom-based diagnosis suggesting medicines, precautions, and possible diseases  
+✅ Contribution feature allowing users to suggest modifications and improvements  
 
 ### Admin Panel
 ✅ Manage doctor listings and profiles  
