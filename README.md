@@ -69,8 +69,7 @@ npm start
 ### 3️⃣ Environment Variables
 Create a `.env` file in the backend and frontend directories with required environment variables.
 
-## 📜 License
-This project is licensed under the MIT License.
+
 
 ## 🎉 Acknowledgments
-Thanks to the entire team for their hard work and dedication in making Arogya a reality! 🚀
+Thanks to the entire team **Innov8 Tech** for their hard work and dedication in making Arogya a reality! 🚀
