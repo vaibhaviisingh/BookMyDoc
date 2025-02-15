@@ -13,17 +13,23 @@ Arogya is a healthcare platform designed to make medical services easily accessi
 ✅ Book appointments with expert doctors  
 ✅ View doctor details, including fees, experience, and qualifications  
 ✅ Secure and seamless user experience  
+✅ Daily tablet scheduling and multiple appointment booking  
+✅ AI-powered model **JIVA** provides personalized workout plans, routes, and more based on user information  
+✅ AI model for symptom-based diagnosis suggesting medicines, precautions, and possible diseases  
 
 ### Admin Panel
 ✅ Manage doctor listings and profiles  
 ✅ View and manage user appointments  
 ✅ Secure authentication for admin access  
+✅ Ability to add medicines and manage prescriptions  
+✅ Three levels of authentication for enhanced security  
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Vite, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Authentication:** JWT
+- **AI/ML Models:** Integrated AI models for workout plans and symptom-based diagnosis  
 - **Hosting:** Render
 
 ## 🔧 Installation
