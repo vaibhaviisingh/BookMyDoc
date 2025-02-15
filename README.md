@@ -37,7 +37,7 @@ Arogya is a comprehensive healthcare platform designed to provide seamless medic
 ## 🛠️ Tech Stack
 - **Frontend:** React, Vite, Tailwind CSS
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB,Cloudnari
+- **Database:** MongoDB,Cloudinari
 - **Authentication:** JWT
 - **AI/ML Models:** Integrated AI models for workout plans and symptom-based diagnosis  
 - **Hosting:** Render
