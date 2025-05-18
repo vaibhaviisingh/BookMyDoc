@@ -11,7 +11,7 @@ const Footer = () => {
                     <img onClick={() => navigate('/')} className='cursor-pointer w-[44px] h-[44px] ' src={assets.healthcare} alt="" />
                     <p className="text-3xl font-semibold text-[#1B5E3A]">BookMyDoc</p>
                 </div>
-          <p className='w-full md:w-2/3 text-gray-600 leading-6'>BookMyDoc is a seamless healthcare platform that enables patients to book doctor appointments from their homes effortlessly. With AI-driven scheduling, real-time availability updates, and secure consultations, Arogya ensures convenient and patient-centric healthcare access.</p>
+          <p className='w-full md:w-2/3 text-gray-600 leading-6'>BookMyDoc is a seamless healthcare platform that enables patients to book doctor appointments from their homes effortlessly. With AI-driven scheduling, real-time availability updates, and secure consultations, BookMyDoc ensures convenient and patient-centric healthcare access.</p>
         </div>
 
         <div>
@@ -36,7 +36,7 @@ const Footer = () => {
 
       <div>
         <hr />
-        <p className='py-5 text-sm text-center'>Copyright 2025 @ Arogyadev.com - All Right Reserved.</p>
+        <p className='py-5 text-sm text-center'>Copyright 2025 @ bookmydoc.com - All Right Reserved.</p>
       </div>
 
     </div>
