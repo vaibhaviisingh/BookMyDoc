@@ -20,7 +20,7 @@ const Navbar = () => {
     <div className='flex items-center justify-between text-sm py-4 mb-5 border-b border-b-[#ADADAD]'>
       <div className='flex flex-row items-center gap-2 ' >
           <img onClick={() => navigate('/')} className='cursor-pointer w-[44px] h-[44px]' src={assets.healthcare} alt="" />
-          <p className="text-3xl font-semibold text-[#1B5E3A]">Arogya</p>
+          <p className="text-3xl font-semibold text-[#1B5E3A]">BookMyDoc</p>
       </div>
      
       <ul className='md:flex items-start gap-5 font-medium hidden'>
@@ -66,7 +66,7 @@ const Navbar = () => {
           <div className='flex items-center justify-between px-5 py-6'>
               <div className='flex flex-row items-center gap-2 ' >
               <img onClick={() => navigate('/')} className='cursor-pointer w-[44px] h-[44px]' src={assets.healthcare} alt="" />
-              <p className="text-3xl font-semibold text-[#1B5E3A]">Arogya</p>
+              <p className="text-3xl font-semibold text-[#1B5E3A]">BookMyDoc</p>
           </div>
             <img onClick={() => setShowMenu(false)} src={assets.cross_icon} className='w-7' alt="" />
           </div>

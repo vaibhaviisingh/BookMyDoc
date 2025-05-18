@@ -9,9 +9,9 @@ const Footer = () => {
         <div>
           <div className='flex flex-row items-center gap-2 mb-2' >
                     <img onClick={() => navigate('/')} className='cursor-pointer w-[44px] h-[44px] ' src={assets.healthcare} alt="" />
-                    <p className="text-3xl font-semibold text-[#1B5E3A]">Arogya</p>
+                    <p className="text-3xl font-semibold text-[#1B5E3A]">BookMyDoc</p>
                 </div>
-          <p className='w-full md:w-2/3 text-gray-600 leading-6'>Arogya is a seamless healthcare platform that enables patients to book doctor appointments from their homes effortlessly. With AI-driven scheduling, real-time availability updates, and secure consultations, Arogya ensures convenient and patient-centric healthcare access.</p>
+          <p className='w-full md:w-2/3 text-gray-600 leading-6'>BookMyDoc is a seamless healthcare platform that enables patients to book doctor appointments from their homes effortlessly. With AI-driven scheduling, real-time availability updates, and secure consultations, Arogya ensures convenient and patient-centric healthcare access.</p>
         </div>
 
         <div>
@@ -28,7 +28,7 @@ const Footer = () => {
           <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
           <ul className='flex flex-col gap-2 text-gray-600'>
             <li>+91-9000-77890</li>
-            <li>arogyadev@gmail.com</li>
+            <li>bookmydoc@gmail.com</li>
           </ul>
         </div>
 
