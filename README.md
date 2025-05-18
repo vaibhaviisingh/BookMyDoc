@@ -1,11 +1,11 @@
-# Arogya - Healthcare Platform
+# BookMyDoc - Healthcare Platform
 
 ## 🌐 Live Links
-- **User Platform:** [Arogya Website](https://innov8tech-frontend-lh4p.onrender.com/)
-- **Admin Panel:** [Arogya Admin](https://innov8tech-admin-fpsc.onrender.com/)
+- **User Platform:** [BookMyDoc Website](https://innov8tech-frontend-lh4p.onrender.com/)
+- **Admin Panel:** [BookMyDoc Admin](https://innov8tech-admin-fpsc.onrender.com/)
 
-## 📌 About Arogya
-Arogya is a comprehensive healthcare platform designed to provide seamless medical services to users. It enables patients to browse and connect with expert doctors, book appointments, and manage their health effortlessly. Additionally, Arogya incorporates AI-powered tools for personalized workout plans, symptom-based diagnosis, and medicine recommendations. The platform also includes a **Doctor Panel** where doctors can manage their appointments, view patient history, track revenue, and assign prescriptions. The **Admin Panel** allows administrators to manage doctors, appointments, prescriptions, revenue generation, and security with advanced authentication features.
+## 📌 About BookMyDoc
+BookMyDoc is a comprehensive healthcare platform designed to provide seamless medical services to users. It enables patients to browse and connect with expert doctors, book appointments, and manage their health effortlessly. Additionally, BookMyDoc incorporates AI-powered tools for personalized workout plans, symptom-based diagnosis, and medicine recommendations. The platform also includes a **Doctor Panel** where doctors can manage their appointments, view patient history, track revenue, and assign prescriptions. The **Admin Panel** allows administrators to manage doctors, appointments, prescriptions, revenue generation, and security with advanced authentication features.
 
 ## 🚀 Features
 ### User Platform
@@ -43,12 +43,12 @@ Arogya is a comprehensive healthcare platform designed to provide seamless medic
 - **Hosting:** Render
 
 ## 🔧 Installation
-To run Arogya locally, follow these steps:
+To run BookMyDoc locally, follow these steps:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-repo/arogya.git
-cd arogya
+git clone https://github.com/vaibhaviisingh/BookMyDoc
+cd BookMyDoc
 ```
 
 ### 2️⃣ Install dependencies
@@ -72,4 +72,4 @@ Create a `.env` file in the backend and frontend directories with required envir
 
 
 ## 🎉 Acknowledgments
-Thanks to the entire team **Innov8 Tech** for their hard work and dedication in making Arogya a reality! 🚀
+Thanks to the entire team **Innov8 Tech** for their hard work and dedication in making BookMyDoc a reality! 🚀
