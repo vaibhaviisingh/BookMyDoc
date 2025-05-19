@@ -1,8 +1,6 @@
 # BookMyDoc - Healthcare Platform
 
-## 🌐 Live Links
-- **User Platform:** [BookMyDoc Website](https://innov8tech-frontend-lh4p.onrender.com/)
-- **Admin Panel:** [BookMyDoc Admin](https://innov8tech-admin-fpsc.onrender.com/)
+
 
 ## 📌 About BookMyDoc
 BookMyDoc is a comprehensive healthcare platform designed to provide seamless medical services to users. It enables patients to browse and connect with expert doctors, book appointments, and manage their health effortlessly. Additionally, BookMyDoc incorporates AI-powered tools for personalized workout plans, symptom-based diagnosis, and medicine recommendations. The platform also includes a **Doctor Panel** where doctors can manage their appointments, view patient history, track revenue, and assign prescriptions. The **Admin Panel** allows administrators to manage doctors, appointments, prescriptions, revenue generation, and security with advanced authentication features.
